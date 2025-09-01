@@ -1,96 +1,68 @@
-# portfolio-projects
-End-to-end Data Science, Engineering, Analytics &amp; Business Analyst projects — from ETL pipelines and ML models to BI dashboards and GenAI agents
+# 🚀 Syed Ayaan’s Data Portfolio  
+*End-to-end projects across Data Engineering, Analytics, Data Science & Business Insights*  
 
-Data Portfolio — Engineering, Analytics, Science & Business Insights
+Hi, I’m **Syed Ayaan Ahmed** — a Data Scientist & Engineer passionate about solving business problems with **data, machine learning, and AI**.  
 
-Hi, I’m Syed Ayaan Ahmed — a Data Scientist & Engineer passionate about solving business problems with data, machine learning, and AI.
+This portfolio is a collection of **production-style, real-world projects** I’ve built — spanning **ETL pipelines, ML models, BI dashboards, and GenAI agents**.  
+Each project reflects how I work on the job: from **raw data ingestion → transformation → modeling → insights** that drive business impact.  
 
-This portfolio is a collection of real-world, end-to-end projects I’ve built — spanning Data Engineering, Data Analytics, Data Science, and Business Analysis.
-Each project is designed to reflect how I work on the job: from raw data pipelines to ML models to dashboards and even GenAI-powered business agents.
+---
 
-📌 Why This Portfolio?
+## 📌 Why This Portfolio?  
+I didn’t want a collection of toy notebooks. These projects are designed to:  
+- ⚡ **Handle real-scale datasets** (100K+ to millions of rows)  
+- 📊 **Deliver impact** via dashboards, KPIs, and actionable insights  
+- 🛠 **Leverage the modern data stack** (Airflow, Spark, BigQuery, XGBoost, Power BI, FastAPI, Hugging Face)  
+- 🎯 **Align to real roles**: Data Engineer, Data Analyst, Data Scientist, Business Analyst  
 
-I didn’t want a bunch of toy examples. Instead, I built production-style projects that:
+---
 
-Ingest & transform realistic-scale datasets (100K+ to millions of rows)
+## 🗂 Featured Projects  
 
-Deliver business impact through dashboards, KPIs, and actionable insights
+### 🛠 Data Engineering  
+- **[Cloud Job ETL](./cloud-job-etl)** → Airflow DAGs → BigQuery (40+ SQL transforms) → Power BI dashboards  
+- **[Batch ETL Pipeline](./batch-etl-pipeline)** → PySpark ETL → Hive tables → DAU metrics  
+- **[Streaming Pipeline](./streaming-pipeline)** → Kafka + Spark Streaming → real-time anomaly detection  
 
-Apply modern data stack tools — Airflow, Spark, BigQuery, XGBoost, Power BI, FastAPI, Hugging Face
+### 📊 Data Analytics  
+- **[Customer Segmentation](./customer-segmentation)** → RFM + KMeans on 100K+ customers → CLV dashboards  
+- **[Sales Dashboard](./sales-dashboard)** → SQL star schema → Power BI dashboards  
+- **[Survey Analysis](./survey-analysis)** → NPS scoring + sentiment from survey feedback  
 
-Mirror the roles I target → Data Engineer, Data Scientist, Data Analyst, Business Analyst
+### 🧠 Data Science  
+- **[Churn Prediction ML](./churn-prediction-ml)** → XGBoost model + SHAP explainability → retention insights  
+- **[H1B Insights](./h1b-insights)** → Visa & salary analysis + wage predictor  
+- **[DecisionIQ (GenAI Analyst Agent)](./decisioniq)** → Upload any dataset → automated analysis, KPIs, EDA reports  
 
-🗂 Featured Projects
-🛠 Data Engineering
+### 🗂 Business Analysis  
+- **[Market Research Dashboard](./market-research-dashboard)** → Product reviews → sentiment & keyword trends → BI dashboards  
+- **[AskUTD AI Assistant](./askutd-ai-assistant)** → GenAI chatbot for student queries  
+- **[International Student Visa Dashboard](./international-student-visa-dashboard)** → Interactive dashboards for visa policies  
 
-Cloud Job ETL
- → Airflow DAGs → BigQuery (40+ SQL transforms) → Power BI dashboards
+---
 
-Batch ETL Pipeline
- → PySpark ETL → Hive tables → DAU metrics
+## 🛠️ Skills Demonstrated  
+- **Data Engineering** → Airflow, PySpark, Kafka, GCP BigQuery, dbt-style SQL  
+- **Data Science** → Scikit-learn, XGBoost, SHAP, MLflow, Hugging Face LLMs  
+- **Analytics** → Power BI, Tableau, SQL star schemas, KPI dashboards  
+- **Business Analysis** → BI storytelling, sentiment analysis, market research dashboards  
 
-Streaming Pipeline
- → Kafka + Spark Streaming → anomaly detection in job-event streams
+---
 
-📊 Data Analytics
+## 📊 Dashboards & Visuals  
+Each project folder includes **screenshots, charts, or BI dashboards**  
+(e.g., clustering elbow plots, survey NPS distributions, sentiment word frequency).  
 
-Customer Segmentation
- → RFM + KMeans on 100K+ customers → CLV dashboards
+---
 
-Sales Dashboard
- → SQL star schema → Power BI dashboards
+## 💡 Roadmap  
+- 🚀 Deploy pipelines with Docker & Airflow  
+- 🖥 Add Streamlit demos for ML/GenAI projects  
+- 📈 Publish BI dashboard snapshots for quick review  
+- 🌍 Expand into Finance, Healthcare, and AI use cases  
 
-Survey Analysis
- → NPS scoring → feedback sentiment
+---
 
-🧠 Data Science
-
-Churn Prediction ML
- → XGBoost model → SHAP explainability → retention insights
-
-H1B Insights
- → Visa & salary analysis + wage predictor
-
-DecisionIQ (GenAI Analyst Agent)
- → Upload any dataset → Automated analysis, EDA, KPI reports
-
-🗂 Business Analysis
-
-Market Research Dashboard
- → Product reviews → sentiment + trends → Power BI
-
-AskUTD AI Assistant
- → GenAI chatbot for student queries
-
-International Student Visa Dashboard
- → Interactive visa policy dashboards
-
-🛠️ Skills Demonstrated
-
-Data Engineering → Airflow, PySpark, Kafka, GCP BigQuery, dbt-style SQL
-
-Data Science → Scikit-learn, XGBoost, SHAP, MLflow, Hugging Face LLMs
-
-Analytics → Power BI, Tableau, SQL star schemas, KPI dashboards
-
-Business Analysis → BI storytelling, sentiment analysis, market research dashboards
-
-📊 Dashboards & Visuals
-
-Each project folder includes screenshots, charts, or BI dashboards (e.g., clustering elbow plots, survey distributions, keyword trends).
-
-💡 Roadmap
-
-Deploy pipelines with Docker & Airflow
-
-Add Streamlit demos for ML/GenAI projects
-
-Publish BI dashboard snapshots for quick review
-
-Keep expanding with projects in Finance, Healthcare, and AI
-
-📬 Connect
-
-LinkedIn: linkedin.com/in/ayaan3
-
-GitHub: github.com/ayaansd
+## 📬 Connect  
+- 🔗 [LinkedIn](https://linkedin.com/in/ayaan3)  
+- 💻 [GitHub](https://github.com/ayaansd)  
