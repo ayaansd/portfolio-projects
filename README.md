@@ -1,4 +1,4 @@
-# 🚀 Syed Ayaan’s Data Portfolio  
+# 🚀 My Data Portfolio  
 *End-to-end projects across Data Engineering, Analytics, Data Science & Business Insights*  
 
 Hi, I’m **Syed Ayaan Ahmed** — a Data Scientist & Engineer passionate about solving business problems with **data, machine learning, and AI**.  
