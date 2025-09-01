@@ -20,24 +20,24 @@ I didn’t want a collection of toy notebooks. These projects are designed to:
 ## 🗂 Featured Projects  
 
 ### 🛠 Data Engineering  
-- **[Cloud Job ETL](./cloud-job-etl)** → Airflow DAGs → BigQuery (40+ SQL transforms) → Power BI dashboards  
-- **[Batch ETL Pipeline](./batch-etl-pipeline)** → PySpark ETL → Hive tables → DAU metrics  
-- **[Streaming Pipeline](./streaming-pipeline)** → Kafka + Spark Streaming → real-time anomaly detection  
+- **[Cloud Job ETL](https://github.com/ayaansd/cloud-job-etl)** → Airflow DAGs → BigQuery (40+ SQL transforms) → Power BI dashboards  
+- **[Batch ETL Pipeline](https://github.com/ayaansd/batch-etl-pipeline)** → PySpark ETL → Hive tables → DAU metrics  
+- **[Streaming Pipeline](https://github.com/ayaansd/streaming-pipeline)** → Kafka + Spark Streaming → real-time anomaly detection  
 
 ### 📊 Data Analytics  
-- **[Customer Segmentation](./customer-segmentation)** → RFM + KMeans on 100K+ customers → CLV dashboards  
-- **[Sales Dashboard](./sales-dashboard)** → SQL star schema → Power BI dashboards  
-- **[Survey Analysis](./survey-analysis)** → NPS scoring + sentiment from survey feedback  
+- **[Customer Segmentation](https://github.com/ayaansd/customer-segmentation)** → RFM + KMeans on 100K+ customers → CLV dashboards  
+- **[Sales Dashboard](https://github.com/ayaansd/sales-dashboard)** → SQL star schema → Power BI dashboards  
+- **[Survey Analysis](https://github.com/ayaansd/survey-analysis)** → NPS scoring + sentiment from survey feedback  
 
 ### 🧠 Data Science  
-- **[Churn Prediction ML](./churn-prediction-ml)** → XGBoost model + SHAP explainability → retention insights  
-- **[H1B Insights](./h1b-insights)** → Visa & salary analysis + wage predictor  
-- **[DecisionIQ (GenAI Analyst Agent)](./decisioniq)** → Upload any dataset → automated analysis, KPIs, EDA reports  
+- **[Churn Prediction ML](https://github.com/ayaansd/churn-prediction-ml)** → XGBoost model + SHAP explainability → retention insights  
+- **[H1B Insights](https://github.com/ayaansd/h1b-insights)** → Visa & salary analysis + wage predictor  
+- **[DecisionIQ (GenAI Analyst Agent)](https://github.com/ayaansd/decisioniq)** → Upload any dataset → automated analysis, KPIs, EDA reports  
 
 ### 🗂 Business Analysis  
-- **[Market Research Dashboard](./market-research-dashboard)** → Product reviews → sentiment & keyword trends → BI dashboards  
-- **[AskUTD AI Assistant](./askutd-ai-assistant)** → GenAI chatbot for student queries  
-- **[International Student Visa Dashboard](./international-student-visa-dashboard)** → Interactive dashboards for visa policies  
+- **[Market Research Dashboard](https://github.com/ayaansd/market-research-dashboard)** → Product reviews → sentiment & keyword trends → BI dashboards  
+- **[AskUTD AI Assistant](https://github.com/ayaansd/askutd-ai-assistant)** → GenAI chatbot for student queries  
+- **[International Student Visa Dashboard](https://github.com/ayaansd/international-student-visa-dashboard)** → Interactive dashboards for visa policies  
 
 ---
 
